@@ -1,0 +1,43 @@
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\UnityEditor.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\UnityEngine.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\UnityEngine.xml
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\UnityEditor.xml
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\obj\Debug\Assembly-CSharp.dll
+C:\Users\FERAILAntoine\Documents\Unity projects\BallMaze\obj\Debug\Assembly-CSharp.pdb
+D:\BallMaze\Temp\bin\Debug\Assembly-CSharp.dll
+D:\BallMaze\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\BallMaze\Temp\bin\Debug\UnityEditor.dll
+D:\BallMaze\Temp\bin\Debug\UnityEngine.dll
+D:\BallMaze\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\BallMaze\Temp\bin\Debug\UnityEngine.UI.dll
+D:\BallMaze\Temp\bin\Debug\Mono.Cecil.dll
+D:\BallMaze\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\BallMaze\Temp\bin\Debug\Unity.DataContract.dll
+D:\BallMaze\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\BallMaze\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\BallMaze\Temp\bin\Debug\Unity.CecilTools.dll
+D:\BallMaze\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\BallMaze\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\BallMaze\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\BallMaze\Temp\bin\Debug\UnityEngine.xml
+D:\BallMaze\Temp\bin\Debug\UnityEditor.xml
+D:\BallMaze\Temp\bin\Debug\UnityEngine.UI.xml
+D:\BallMaze\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\BallMaze\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\BallMaze\obj\Debug\Assembly-CSharp.dll
+D:\BallMaze\obj\Debug\Assembly-CSharp.pdb
